@@ -1,0 +1,17 @@
+{ 
+
+   "redirects": [ 
+
+     { 
+
+       "source": "/post/:slug*", 
+
+       "destination": "https://diyhomemagic.com/:slug*", 
+
+       "permanent": true 
+
+     } 
+
+   ] 
+
+ }
